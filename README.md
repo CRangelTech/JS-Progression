@@ -19,7 +19,9 @@ Este espacio tiene como finalidad:
 El repositorio está organizado en las siguientes secciones:  
 
 ### 1. 🟩 **Fundamentos de JavaScript**  
-- Variables, Tipos de datos y Operadores.  
+- Hola Mundo
+- Variables, Tipos de datos
+- Operadores.  
 - Control de flujo (if/else, loops).  
 - Funciones: Declarativas y Expresivas.  
 - Manipulación del DOM.  
@@ -80,12 +82,22 @@ Las contribuciones son bienvenidas. Si deseas colaborar, sigue estos pasos:
 ---
 
 ## 📩 Contacto  
+**Bachelor's Degree in Computer Science**  
+Full Stack Developer  
+Immersive Experiences Developer  
 
-¿Tienes alguna pregunta o sugerencia?  
-📧 **Correo:** carlosrangel.tech@gmail.com  
-🌐 **CRangelTech:** [CRangelTech](https://github.com/CRangelTech)  
+- ![Email Icon](https://signaturehound.com/api/v1/png/email/default/000000.png) [carlosrangel.tech@gmail.com](mailto:carlosrangel.tech@gmail.com)  
+- ![Phone Icon](https://signaturehound.com/api/v1/png/direct/default/000000.png) [55 5632 2384](tel:5556322384)  
+- ![Mobile Icon](https://signaturehound.com/api/v1/png/mobile/default/000000.png) [56 3967 2481](tel:5639672481)  
+- ![Location Icon](https://signaturehound.com/api/v1/png/map/default/000000.png) Coyoacán, CDMX, México  
+
+
+[![GitHub](https://signaturehound.com/api/v1/png/github/round-outlined/ff0000.png)](https://github.com/CRangelTech) [![LinkedIn](https://signaturehound.com/api/v1/png/linkedin/round-outlined/ff0000.png)](https://www.linkedin.com/in/crangeltech/) [![Twitter](https://signaturehound.com/api/v1/png/x/round-outlined/ff0000.png)](https://x.com/crangeltech) [![Instagram](https://signaturehound.com/api/v1/png/instagram/round-outlined/ff0000.png)](https://www.instagram.com/crangeltech/)
 
 ---
 
 ¡Gracias por visitar **JS-Progression**! 🚀  
 Continúa aprendiendo, experimentando y creciendo en este emocionante viaje por JavaScript.
+
+
+---
