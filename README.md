@@ -83,13 +83,11 @@ Las contribuciones son bienvenidas. Si deseas colaborar, sigue estos pasos:
 
 ## 📩 Contacto  
 **Bachelor's Degree in Computer Science**  
+¿Tienes alguna pregunta o sugerencia?  
 Full Stack Developer  
 Immersive Experiences Developer  
-
-- ![Email Icon](https://signaturehound.com/api/v1/png/email/default/000000.png) [carlosrangel.tech@gmail.com](mailto:carlosrangel.tech@gmail.com)  
-- ![Phone Icon](https://signaturehound.com/api/v1/png/direct/default/000000.png) [55 5632 2384](tel:5556322384)  
-- ![Mobile Icon](https://signaturehound.com/api/v1/png/mobile/default/000000.png) [56 3967 2481](tel:5639672481)  
-- ![Location Icon](https://signaturehound.com/api/v1/png/map/default/000000.png) Coyoacán, CDMX, México  
+📧 **Correo:** carlosrangel.tech@gmail.com  
+🌐 **CRangelTech:**
 
 
 [![GitHub](https://signaturehound.com/api/v1/png/github/round-outlined/ff0000.png)](https://github.com/CRangelTech) [![LinkedIn](https://signaturehound.com/api/v1/png/linkedin/round-outlined/ff0000.png)](https://www.linkedin.com/in/crangeltech/) [![Twitter](https://signaturehound.com/api/v1/png/x/round-outlined/ff0000.png)](https://x.com/crangeltech) [![Instagram](https://signaturehound.com/api/v1/png/instagram/round-outlined/ff0000.png)](https://www.instagram.com/crangeltech/)
